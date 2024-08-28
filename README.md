@@ -14,7 +14,6 @@ Importance of Software Engineering in the Technology Industry
 5.	Reduces Complexity: Handling large and complex software projects can be challenging. Software engineering simplifies these complexities by breaking down problems into manageable parts and solving them systematically
 6.	Cost and Time Efficiency: By following structured methodologies, software engineering helps in reducing development costs and time. It ensures that projects are completed within deadlines and budgets
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 1. The Birth of Software Engineering (1968)
@@ -23,8 +22,6 @@ Identify and describe at least three key milestones in the evolution of software
 •	Description: The 1970s saw the emergence of structured programming, a paradigm that aimed to improve the clarity, quality, and development time of software by promoting the use of control structures such as loops and conditionals. This was a shift away from the unstructured, "spaghetti code" that was prevalent at the time. Pioneered by Edsger Dijkstra, structured programming laid the groundwork for the development of more reliable and maintainable software systems, emphasizing the importance of writing code that is easy to understand and modify.
 3. The Agile Manifesto (2001)
 •	Description: The Agile Manifesto, published in 2001 by a group of software developers, marked a major milestone in the evolution of software engineering methodologies. Agile principles prioritize customer collaboration, responsiveness to change, and iterative development over rigid planning and processes. This was a response to the limitations of traditional, heavyweight methodologies like Waterfall, which were often too slow and inflexible for the fast-paced demands of modern software development. Agile methodologies, including Scrum and XP (Extreme Programming), have since become dominant in the industry, revolutionizing how software is developed, delivered, and maintained.
-
-
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirement Analysis
